@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ymca1990batch</title>
+    <link href="https://ymca1990.github.io/ymca-pages/feed.xml" rel="self" />
+    <link href="https://ymca1990.github.io/ymca-pages" />
+    <updated>2020-05-23T20:32:25+05:30</updated>
+    <author>
+        <name>MS</name>
+    </author>
+    <id>https://ymca1990.github.io/ymca-pages</id>
+
+    <entry>
+        <title>YMCA 1990 Batch</title>
+        <author>
+            <name>MS</name>
+        </author>
+        <link href="https://ymca1990.github.io/ymca-pages/ymca-1990-batch.html"/>
+        <id>https://ymca1990.github.io/ymca-pages/ymca-1990-batch.html</id>
+
+        <updated>2020-05-23T20:18:07+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
